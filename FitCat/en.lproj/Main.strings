@@ -1,0 +1,114 @@
+
+/* Class = "UIViewController"; title = "Cat Info"; ObjectID = "1aF-XI-le4"; */
+"1aF-XI-le4.title" = "Cat Info";
+
+/* Class = "UILabel"; text = "Cat Breed"; ObjectID = "2rb-Em-kwI"; */
+"2rb-Em-kwI.text" = "Cat Breed";
+
+/* Class = "UIBarButtonItem"; title = "Cancel"; ObjectID = "3nd-fO-1JQ"; */
+"3nd-fO-1JQ.title" = "Cancel";
+
+/* Class = "UITextField"; placeholder = "Enter weight in pounds"; ObjectID = "5Dl-Am-ojB"; */
+"5Dl-Am-ojB.placeholder" = "Enter weight in pounds";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "9y5-Gh-QGN"; */
+"9y5-Gh-QGN.title" = "Item";
+
+/* Class = "UILabel"; text = "Weight lost to date:"; ObjectID = "IfJ-H0-i9h"; */
+"IfJ-H0-i9h.text" = "Weight lost to date:";
+
+/* Class = "UIBarButtonItem"; title = "Save"; ObjectID = "JbV-hc-pJ9"; */
+"JbV-hc-pJ9.title" = "Save";
+
+/* Class = "UITextField"; placeholder = "Select Yes or No"; ObjectID = "L8P-O9-LPH"; */
+"L8P-O9-LPH.placeholder" = "Select Yes or No";
+
+/* Class = "UITextField"; placeholder = "In Years"; ObjectID = "M6y-0z-ZxA"; */
+"M6y-0z-ZxA.placeholder" = "In Years";
+
+/* Class = "UITextField"; placeholder = "Enter Gender"; ObjectID = "MD4-Y1-cn1"; */
+"MD4-Y1-cn1.placeholder" = "Enter Gender";
+
+/* Class = "UIViewController"; title = "Cat Breed Info"; ObjectID = "PCk-x4-5Ll"; */
+"PCk-x4-5Ll.title" = "Cat Breed Info";
+
+/* Class = "UITabBarController"; title = "MyTabController"; ObjectID = "PG1-2d-2CM"; */
+"PG1-2d-2CM.title" = "MyTabController";
+
+/* Class = "UILabel"; text = "Weight:"; ObjectID = "PL4-J8-fpg"; */
+"PL4-J8-fpg.text" = "Weight:";
+
+/* Class = "UITextField"; placeholder = "Enter a plan start date"; ObjectID = "Phi-7V-V8Q"; */
+"Phi-7V-V8Q.placeholder" = "Enter a plan start date";
+
+/* Class = "UILabel"; text = "Target weight should be achieved by June 15 (120 days)"; ObjectID = "RPR-gR-zLi"; */
+"RPR-gR-zLi.text" = "Target weight should be achieved by June 15 (120 days)";
+
+/* Class = "UILabel"; text = "Kitty"; ObjectID = "SSC-qD-tg9"; */
+"SSC-qD-tg9.text" = "Kitty";
+
+/* Class = "UILabel"; text = "Starting weight:"; ObjectID = "Stv-Mm-Oh7"; */
+"Stv-Mm-Oh7.text" = "Starting weight:";
+
+/* Class = "UIButton"; normalTitle = "Create a fitPlan"; ObjectID = "Vdl-ym-A6b"; */
+"Vdl-ym-A6b.normalTitle" = "Create a fitPlan";
+
+/* Class = "UIViewController"; title = "Login Page"; ObjectID = "Vth-ft-w23"; */
+"Vth-ft-w23.title" = "Login Page";
+
+/* Class = "UITabBarItem"; title = "Tracking"; ObjectID = "YEc-5m-BvN"; */
+"YEc-5m-BvN.title" = "Tracking";
+
+/* Class = "UITextField"; placeholder = "Enter Breed"; ObjectID = "ZG4-rG-8gg"; */
+"ZG4-rG-8gg.placeholder" = "Enter Breed";
+
+/* Class = "UILabel"; text = "Target weight loss:\n"; ObjectID = "ecc-7x-8EB"; */
+"ecc-7x-8EB.text" = "Target weight loss:\n";
+
+/* Class = "UITabBarItem"; title = "Setting"; ObjectID = "jUy-OI-XrM"; */
+"jUy-OI-XrM.title" = "Setting";
+
+/* Class = "UITabBarItem"; title = "home"; ObjectID = "jWW-55-oGa"; */
+"jWW-55-oGa.title" = "home";
+
+/* Class = "UITextField"; placeholder = "Enter a unique cat name"; ObjectID = "kBK-Uo-8a1"; */
+"kBK-Uo-8a1.placeholder" = "Enter a unique cat name";
+
+/* Class = "UILabel"; text = "Cat name"; ObjectID = "kyy-za-uo2"; */
+"kyy-za-uo2.text" = "Cat name";
+
+/* Class = "UINavigationItem"; title = "Add Cat Details"; ObjectID = "lN5-0z-u0H"; */
+"lN5-0z-u0H.title" = "Add Cat Details";
+
+/* Class = "UILabel"; text = "Current target completion:"; ObjectID = "lQU-rf-iLv"; */
+"lQU-rf-iLv.text" = "Current target completion:";
+
+/* Class = "UILabel"; text = "lbs"; ObjectID = "mJs-TG-7zs"; */
+"mJs-TG-7zs.text" = "lbs";
+
+/* Class = "UILabel"; text = "Cat D.O.B"; ObjectID = "mpt-PF-XyC"; */
+"mpt-PF-XyC.text" = "Cat D.O.B";
+
+/* Class = "UILabel"; text = "Plan Start Date"; ObjectID = "pGj-2T-qo7"; */
+"pGj-2T-qo7.text" = "Plan Start Date";
+
+/* Class = "UILabel"; text = "Reduced 2.1 lbs"; ObjectID = "pSd-gF-gd7"; */
+"pSd-gF-gd7.text" = "Reduced 2.1 lbs";
+
+/* Class = "UILabel"; text = "Cat Name"; ObjectID = "rGk-5J-4Qg"; */
+"rGk-5J-4Qg.text" = "Cat Name";
+
+/* Class = "UILabel"; text = "BCS Status:"; ObjectID = "rJO-Rj-QK8"; */
+"rJO-Rj-QK8.text" = "BCS Status:";
+
+/* Class = "UILabel"; text = "Cat Gender"; ObjectID = "uwe-xU-Qcc"; */
+"uwe-xU-Qcc.text" = "Cat Gender";
+
+/* Class = "UILabel"; text = "Starting BCS:"; ObjectID = "x6n-sC-zD3"; */
+"x6n-sC-zD3.text" = "Starting BCS:";
+
+/* Class = "UILabel"; text = "Spayed/Neutered"; ObjectID = "yJX-jW-xVU"; */
+"yJX-jW-xVU.text" = "Spayed/Neutered";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "z9u-xC-fuN"; */
+"z9u-xC-fuN.text" = "Title";
